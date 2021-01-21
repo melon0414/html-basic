@@ -1,0 +1,18 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="utf-8">
+            <style>
+                h3{
+                    color: blue;
+                }
+            </style>
+            </head>
+            <body>
+                <h3>합작 프로젝트</h3>
+                <p>이 학급에서는 조선시대를 배경으로 한 게임을 만듭니다.</p>
+                <p>가입하시고 싶으신가요?그러면 다음 링크로 들어 오세요.</p>
+                <a href = "https://playentry.org/group/6001849995ea4f26c2c82c93">학급 가입하기</a>
+
+            </body>
+            </html>
